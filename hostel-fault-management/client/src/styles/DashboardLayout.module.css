@@ -1,0 +1,40 @@
+.layout {
+  display: flex;
+  background-color: #f8fafc; /* Light grey background for content */
+  height: 100vh;
+  overflow: hidden; /* Prevent the whole page from scrolling */
+  min-height: 100vh;
+}
+
+.main {
+  flex-grow: 1;
+  margin-left: 250px; /* Same as sidebar width */
+  display: flex;
+  flex-direction: column;
+  min-width: 0; /* CRITICAL FIX: Allows the container to shrink and overflow to be calculated correctly */
+  transition: margin-left 0.3s ease;
+}
+
+.mainCollapsed {
+  margin-left: 80px; /* Collapsed sidebar width */
+}
+
+.content {
+  padding: 2rem;
+  flex-grow: 1;
+  overflow: auto; /* This makes the content area scrollable */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .main {
+    margin-left: 80px; /* Force collapsed margin on mobile */
+  }
+}
+
+@media (max-width: 768px) {
+  .main {
+    margin-left: 80px; /* Force collapsed margin on mobile */
+  }
+}

@@ -1,0 +1,694 @@
+description,category,priority
+"The main light in room 204 is flickering constantly.",Electrical,Medium
+"Water is leaking from the pipe under the sink in the first floor washroom.",Plumbing,High
+"The wifi is not working on the entire 3rd floor.",IT,Medium
+"A window pane is cracked and needs replacement.",Carpentry,Low
+"The fire alarm is beeping for no reason.",Electrical,High
+"My room door lock is stuck.",Carpentry,Medium
+"The toilet in my room won't flush properly.",Plumbing,Medium
+"There's no power in my socket.",Electrical,High
+"The internet connection is very slow today.",IT,Low
+"A chair in the common room is broken.",Carpentry,Low
+"The AC is not cooling the room.",Electrical,Medium
+"Shower drain is completely clogged.",Plumbing,High
+"The router in the hallway is blinking red.",IT,High
+"My cupboard door hinge is broken.",Carpentry,Low
+"The geyser is not providing hot water.",Plumbing,Medium
+"A tube light has fused in the corridor.",Electrical,Low
+"The main light in room 204 is flickering constantly."	Electrical	Medium
+"Water is leaking from the pipe under the sink in the first floor washroom."	Plumbing	High
+"The wifi is not working on the entire 3rd floor."	IT	Medium
+"A window pane is cracked and needs replacement."	Carpentry	Low
+"The fire alarm is beeping for no reason."	Electrical	High
+"My room door lock is stuck."	Carpentry	Medium
+"The toilet in my room won't flush properly."	Plumbing	Medium
+"There's no power in my socket."	Electrical	High
+"The internet connection is very slow today."	IT	Low
+"A chair in the common room is broken."	Carpentry	Low
+"The AC is not cooling the room."	Electrical	Medium
+"Shower drain is completely clogged."	Plumbing	High
+"The router in the hallway is blinking red."	IT	High
+"My cupboard door hinge is broken."	Carpentry	Low
+"The geyser is not providing hot water."	Plumbing	Medium
+"A tube light has fused in the corridor."	Electrical	Low
+"Unable to connect my laptop to the hostel Wi-Fi network."	IT	Medium
+"Multiple switches on my study table are not working."	Electrical	High
+"Water pressure in the bathroom is very low."	Plumbing	Medium
+"The wooden door to the terrace is jammed and won’t open."	Carpentry	High
+"The main light in room 204 is flickering constantly.",Electrical,Medium
+"Water is leaking from the pipe under the sink in the first floor washroom.",Plumbing,High
+"The wifi is not working on the entire 3rd floor.",IT,Medium
+"A window pane is cracked and needs replacement.",Carpentry,Low
+"The fire alarm is beeping for no reason.",Electrical,High
+"My room door lock is stuck.",Carpentry,Medium
+"The toilet in my room won't flush properly.",Plumbing,Medium
+"There's no power in my socket.",Electrical,High
+"The internet connection is very slow today.",IT,Low
+"A chair in the common room is broken.",Carpentry,Low
+"The AC is not cooling the room.",Electrical,Medium
+"Shower drain is completely clogged.",Plumbing,High
+"The router in the hallway is blinking red.",IT,High
+"My cupboard door hinge is broken.",Carpentry,Low
+"The geyser is not providing hot water.",Plumbing,Medium
+"A tube light has fused in the corridor.",Electrical,Low
+"Unable to connect my laptop to the hostel Wi-Fi network.",IT,Medium
+"Multiple switches on my study table are not working.",Electrical,High
+"Water pressure in the bathroom is very low.",Plumbing,Medium
+"The wooden door to the terrace is jammed and won’t open.",Carpentry,High
+"The corridor light flickers intermittently.",Electrical,Medium
+"The kitchen sink faucet is dripping nonstop.",Plumbing,High
+"Wifi speed drops significantly after 8 PM daily.",IT,Medium
+"The window lock in my room is damaged.",Carpentry,Low
+"The circuit breaker trips when using the heater.",Electrical,High
+"No hot water supply in the gym showers.",Plumbing,Medium
+"Printer in the computer lab is offline and won’t reconnect.",IT,Low
+"The loose electrical socket sparks occasionally.",Electrical,High
+"Kitchen cabinet door hinge loose and noisy.",Carpentry,Low
+"The drain in washroom 6 is emitting a foul smell.",Plumbing,High
+"Repeated Wi-Fi disconnects on the second floor.",IT,Medium
+"Wall socket near stairwell not supplying power.",Electrical,High
+"Bathroom mirror broken, needs replacement.",Carpentry,Low
+"The water heater temperature fluctuates.",Plumbing,Medium
+"Network printer jam in admin office.",IT,Medium
+"Lost connection to server from hostel reception desk.",IT,High
+"One light in the corridor is dim and flickering.",Electrical,Low
+"Shower handle in gym is loose and dripping.",Plumbing,Medium
+"Staff room door locking mechanism faulty.",Carpentry,Medium
+"The computer lab Wi-Fi remains disconnected intermittently.",IT,High
+"Several lamps in the study hall have blown out bulbs.",Electrical,Low
+"The wash basin tap has a constant drip despite being closed.",Plumbing,High
+"Conference room projector power not turning on.",Electrical,Medium
+"Guttering clogged outside the library causing water pooling.",Plumbing,High
+"Router reboot needed every day to maintain connection.",IT,Medium
+"Door frame in common area cracked and unstable.",Carpentry,Medium
+"Wireless network not available in basement area.",IT,High
+"Kitchen range hood fan is noisy and ineffective.",Electrical,Medium
+"The dorm room sink backs up after use.",Plumbing,High
+"The ceiling fan in room 108 is making loud noise when turned on.",Electrical,Medium
+"The water heater in the second-floor bathroom isn't working properly.",Plumbing,High
+"The main light in corridor B flickers and turns off randomly.",Electrical,Medium
+"Broken chair in classroom 305 needs fixing.",Carpentry,Low
+"AC in lab 2 is leaking water onto the floor.",Electrical,High
+"The pipe behind the kitchen sink is dripping constantly.",Plumbing,High
+"Wi-Fi connection drops frequently in library area.",IT,Medium
+"Door hinge of room 212 is coming off.",Carpentry,Low
+"The bulb near stairway 3 is fused.",Electrical,Low
+"The water tap in room 405 is loose and leaking.",Plumbing,Medium
+"Printer in admin office shows paper jam error repeatedly.",IT,Medium
+"Window lock in lab 1 is broken and cannot close properly.",Carpentry,Low
+"Power socket near desk 12 sparks when plugging in.",Electrical,High
+"Shower in hostel block A doesn’t have water pressure.",Plumbing,Medium
+"Internet speed is extremely slow on the 2nd floor.",IT,Low
+"The door frame in room 310 has come loose from one side.",Carpentry,Low
+"Ceiling light in the main hall stopped working.",Electrical,Medium
+"Toilet flush in block C is not working properly.",Plumbing,Medium
+"System in lab 6 not connecting to campus Wi-Fi.",IT,Medium
+"The table leg in study hall is broken.",Carpentry,Low
+"Electric socket in room 214 is not working.",Electrical,Medium
+"Leakage from the overhead water tank near block D.",Plumbing,High
+"The router in staff office keeps restarting automatically.",IT,High
+"The cupboard door in hostel room 3B is off its hinges.",Carpentry,Low
+"The fan in reading room rotates very slowly.",Electrical,Low
+"Tap in washroom 2 keeps running even after closing.",Plumbing,Medium
+"Network cable disconnected in lab 5 computer.",IT,Medium
+"The drawer rail in office 102 is jammed.",Carpentry,Low
+"Tube light in classroom 206 went out suddenly.",Electrical,Medium
+"Drainage in canteen kitchen is blocked.",Plumbing,High
+"Unable to connect to VPN on lab computers.",IT,Medium
+"Wooden desk surface cracked in class 109.",Carpentry,Low
+"Switchboard in corridor short-circuited this morning.",Electrical,High
+"Sink in bathroom 4A is clogged and overflowing.",Plumbing,High
+"Wi-Fi signal strength is very weak in hostel basement.",IT,Low
+"Bed frame in hostel room 102 is damaged.",Carpentry,Low
+"AC remote in meeting hall not responding.",Electrical,Medium
+"Pipe burst in garden area causing water logging.",Plumbing,High
+"Server downtime in computer center since morning.",IT,High
+"The cabinet handle in staff room is broken.",Carpentry,Low
+"Overhead fan not rotating even after switch is on.",Electrical,Medium
+"Toilet seat in washroom 1B is cracked.",Plumbing,Medium
+"LAN port in class 401 not detecting cable.",IT,Medium
+"The bookshelf in the library is unstable and shaky.",Carpentry,Low
+"The main power line in lab 3 trips frequently.",Electrical,High
+"Water dripping from ceiling due to leakage.",Plumbing,High
+"Projector not connecting to laptop in classroom 304.",IT,Medium
+"Door handle in admin block jammed.",Carpentry,Low
+"The emergency light in corridor not turning on.",Electrical,Medium
+"Water supply irregular in 2nd floor bathrooms.",Plumbing,Medium
+"Printer in faculty office out of network.",IT,Low
+"Study table in hostel room 5A has a missing screw.",Carpentry,Low
+"Main circuit breaker tripped during power fluctuation.",Electrical,High
+"Drain near kitchen emits foul smell.",Plumbing,Medium
+"Computer in lab 9 not booting properly.",IT,Medium
+"Window frame loose in classroom 208.",Carpentry,Low
+"Light switch near elevator not working.",Electrical,Medium
+"Pipe under the wash basin is cracked.",Plumbing,Medium
+"Network outage in auditorium during event.",IT,High
+"Door knob broken in guest room 2A.",Carpentry,Low
+"Fan regulator sparks when turned.",Electrical,High
+"Hot water not coming in hostel washroom.",Plumbing,Medium
+"Email server down for last two hours.",IT,High
+"Cabinet shelf broken in storage room.",Carpentry,Low
+"AC unit blowing warm air instead of cool.",Electrical,High
+"Tap water discolored in kitchen.",Plumbing,High
+"Wi-Fi authentication error for multiple users.",IT,Medium
+"Broken bench in outdoor sitting area.",Carpentry,Low
+"Main switch near corridor gives electric shock.",Electrical,High
+"Restroom drainage clogged near staff room.",Plumbing,High
+"LAN disconnected in accounts office.",IT,Medium
+"Door doesn’t close fully in lecture hall 202.",Carpentry,Low
+"Light in washroom hallway keeps flickering.",Electrical,Medium
+"Water pressure very low in kitchen sink.",Plumbing,Medium
+"System showing blue screen error in lab 4.",IT,High
+"Bookshelf in reading area cracked at bottom.",Carpentry,Low
+"Electrical outlet near notice board not working.",Electrical,Medium
+"Pipeline leakage behind hostel mess.",Plumbing,High
+"Wi-Fi router blinking red constantly.",IT,High
+"Chair leg broken in library reading table.",Carpentry,Low
+"AC not cooling properly in computer lab.",Electrical,Medium
+"Water overflow in rooftop tank.",Plumbing,High
+"Unable to access shared folder on server.",IT,Medium
+"Table drawer stuck in office room 203.",Carpentry,Low
+"Light in seminar hall turns off intermittently.",Electrical,Medium
+"Bathroom tap handle broken.",Plumbing,Medium
+"Internet disconnected in ground floor rooms.",IT,Medium
+"Broken step on wooden staircase in hostel.",Carpentry,Medium
+"Power supply fluctuates in study area.",Electrical,High
+"Water seepage on hostel corridor wall.",Plumbing,Medium
+"Wi-Fi password not working in lab 10.",IT,Low
+"Door frame near washroom damaged due to moisture.",Carpentry,Medium
+"The ceiling fan in room 102 is not rotating properly.",Electrical,Medium
+"The sink in the second-floor washroom is leaking water.",Plumbing,High
+"The classroom door hinge is broken and needs fixing.",Carpentry,Low
+"The Wi-Fi in the library is not connecting to any devices.",IT,High
+"The corridor light near block A is flickering continuously.",Electrical,Medium
+"The water tap in the mess hall is loose and dripping.",Plumbing,Medium
+"The chair in lab 3 has a broken leg.",Carpentry,Low
+"The printer in the admin office shows a paper jam error.",IT,Medium
+"The tube light in classroom 204 has fused.",Electrical,Low
+"The toilet flush in the hostel washroom is not working.",Plumbing,High
+"The study table drawer in room 215 is jammed.",Carpentry,Low
+"The network cable in computer lab 4 is damaged.",IT,Medium
+"The power socket near the projector sparks while plugging in.",Electrical,High
+"The water heater in room 310 is not heating properly.",Plumbing,Medium
+"The cupboard handle in staff room 2B is broken.",Carpentry,Low
+"The Wi-Fi signal on the third floor is very weak.",IT,Medium
+"The main switch in corridor C trips frequently.",Electrical,High
+"The kitchen sink drain is clogged.",Plumbing,High
+"The wooden shelf in library block B is unstable.",Carpentry,Low
+"The LAN port in lab 6 computer is not detecting cable.",IT,Medium
+"The fan regulator in room 212 is not working.",Electrical,Low
+"The water pipe behind the pantry is leaking.",Plumbing,High
+"The classroom door frame in block D is loose.",Carpentry,Medium
+"The system in IT lab 8 is showing blue screen error.",IT,High
+"The emergency light in the corridor is not turning on.",Electrical,Medium
+"The wash basin tap handle is broken.",Plumbing,Medium
+"The drawer in office room 103 is stuck.",Carpentry,Low
+"The computer in lab 1 is not booting up.",IT,High
+"The ceiling light near staircase 2 is fused.",Electrical,Low
+"The water tank outlet pipe is leaking badly.",Plumbing,High
+"The cupboard in hostel room 104 has a broken door.",Carpentry,Low
+"The internet connection keeps dropping in the staff office.",IT,Medium
+"The switchboard in classroom 201 got short-circuited.",Electrical,High
+"The drain in kitchen area is blocked.",Plumbing,High
+"The classroom bench in room 309 has a cracked plank.",Carpentry,Low
+"The network printer in accounts section is offline.",IT,Medium
+"The bulb in washroom 4A is fused.",Electrical,Low
+"The pipe under the sink is dripping constantly.",Plumbing,Medium
+"The wooden frame of the notice board is broken.",Carpentry,Low
+"The system in lab 9 is not connecting to Wi-Fi.",IT,Medium
+"The power outlet near library entrance is damaged.",Electrical,High
+"The water flow in the shower is very weak.",Plumbing,Medium
+"The door handle of classroom 302 is coming off.",Carpentry,Low
+"The router in corridor B is not responding.",IT,Medium
+"The fan in auditorium makes a grinding noise.",Electrical,Medium
+"The toilet pipe connection is leaking.",Plumbing,High
+"The cupboard drawer handle in staff room is missing.",Carpentry,Low
+"The LAN switch in lab 5 is overheating.",IT,High
+"The light near lab entrance turns off intermittently.",Electrical,Medium
+"The faucet in common washroom is dripping.",Plumbing,Medium
+"The chair armrest in classroom 106 is broken.",Carpentry,Low
+"The projector in seminar hall is not displaying video.",IT,High
+"The main power line in block B tripped suddenly.",Electrical,High
+"The washroom flush tank is making noise constantly.",Plumbing,Low
+"The bookshelf near library entrance is tilted.",Carpentry,Low
+"The email server in admin office is down.",IT,High
+"The corridor light switch is not functioning.",Electrical,Medium
+"The water outlet near garden is leaking.",Plumbing,Medium
+"The table drawer in classroom 401 is stuck.",Carpentry,Low
+"The computer in lab 7 is restarting repeatedly.",IT,High
+"The fan in study area doesn’t rotate at full speed.",Electrical,Low
+"The water supply in bathroom 2 is irregular.",Plumbing,Medium
+"The wooden door in guest room is hard to close.",Carpentry,Medium
+"The internet in hostel area is down since morning.",IT,High
+"The ceiling light in staff room flickers.",Electrical,Medium
+"The toilet seat in washroom 1B is cracked.",Plumbing,Medium
+"The cupboard leg in room 108 is broken.",Carpentry,Low
+"The server in IT lab is running very slow.",IT,High
+"The main switchboard near lab 2 is burnt.",Electrical,High
+"The tap in pantry area is dripping continuously.",Plumbing,Medium
+"The window frame in classroom 105 is broken.",Carpentry,Low
+"The LAN port in meeting room is not active.",IT,Medium
+"The fan in room 210 is making a rattling noise.",Electrical,Low
+"The pipe in basement storage is leaking slightly.",Plumbing,Medium
+"The shelf in reading area is loose.",Carpentry,Low
+"The Wi-Fi router in corridor D keeps restarting.",IT,Medium
+"The bulb near staircase 1 is flickering.",Electrical,Low
+"The sink in hostel washroom is clogged.",Plumbing,High
+"The chair in staff cabin 1A is wobbly.",Carpentry,Low
+"The desktop in lab 10 doesn’t power on.",IT,High
+"The switch near projector is not working.",Electrical,Medium
+"The toilet drain in block C is blocked.",Plumbing,High
+"The cabinet in admin room is jammed.",Carpentry,Low
+"The internet connection is very slow in lab 3.",IT,Medium
+"The corridor fan stopped working suddenly.",Electrical,Medium
+"The shower tap in washroom 4C is broken.",Plumbing,Medium
+"The door frame near staircase 2 is cracked.",Carpentry,Medium
+"The printer in exam section shows ink error.",IT,Low
+"The light in corridor E turns off randomly.",Electrical,Medium
+"The water pipe near garden hose is leaking.",Plumbing,Low
+"The wooden desk leg in staff room is broken.",Carpentry,Low
+"The Wi-Fi in conference hall is unstable.",IT,High
+"The main power socket in pantry sparks.",Electrical,High
+"The washroom faucet near lab 2 is leaking.",Plumbing,Medium
+"The wooden bench near reception is damaged.",Carpentry,Low
+"The LAN cable connection is loose in server room.",IT,Medium
+"The ceiling light in mess hall is fused.",Electrical,Low
+"The shower knob in washroom 2A is loose.",Plumbing,Medium
+"The table in study hall is uneven.",Carpentry,Low
+"The computer in library corner keeps freezing.",IT,Medium
+"The fan in classroom 208 is not spinning at full speed.",Electrical,Low
+"The wash basin tap in block D is dripping continuously.",Plumbing,Medium
+"The wooden door of the store room is off its hinges.",Carpentry,Medium
+"The LAN connection in computer lab 5 is not stable.",IT,Medium
+"The light switch near main gate isn’t working.",Electrical,Medium
+"The toilet pipe in washroom 3B has burst.",Plumbing,High
+"The chair in seminar hall has a broken leg.",Carpentry,Low
+"The desktop in IT office is not connecting to network.",IT,High
+"The bulb near the elevator has fused.",Electrical,Low
+"The water tap in dining hall is leaking non-stop.",Plumbing,Medium
+"The cupboard drawer in staff lounge is jammed.",Carpentry,Low
+"The Wi-Fi in hostel block B is very slow.",IT,Low
+"The fan regulator in room 403 is broken.",Electrical,Low
+"The sink in the kitchen is blocked.",Plumbing,High
+"The classroom table top is cracked.",Carpentry,Low
+"The server in the main IT room has stopped responding.",IT,High
+"The corridor light in block F flickers occasionally.",Electrical,Medium
+"The toilet flush in block B is not filling water.",Plumbing,Medium
+"The cupboard hinge in room 212 is broken.",Carpentry,Low
+"The router near office area disconnects frequently.",IT,Medium
+"The switchboard near canteen entrance is sparking.",Electrical,High
+"The bathroom tap is leaking even when closed.",Plumbing,Medium
+"The study table in hostel room 5C has a loose leg.",Carpentry,Low
+"The system in computer lab 8 is freezing randomly.",IT,High
+"The ceiling light near reception is flickering.",Electrical,Medium
+"The pipe under sink in mess area is cracked.",Plumbing,High
+"The shelf in classroom 303 is leaning forward.",Carpentry,Low
+"The Wi-Fi router on the 2nd floor is not visible in list.",IT,High
+"The electric socket in hostel room 4B is dead.",Electrical,Medium
+"The drain near washroom 2A is clogged.",Plumbing,Medium
+"The drawer in staff cabin 103 is jammed.",Carpentry,Low
+"The internet in seminar hall is down.",IT,High
+"The main light switch in corridor D stopped working.",Electrical,Medium
+"The faucet near garden area is broken.",Plumbing,Medium
+"The bookshelf near admin area is unstable.",Carpentry,Low
+"The computer in lab 11 reboots automatically.",IT,Medium
+"The power socket near classroom 209 sparks.",Electrical,High
+"The shower in washroom 1C has low pressure.",Plumbing,Low
+"The cupboard door in room 405 doesn’t close fully.",Carpentry,Medium
+"The system in computer lab 7 shows network error.",IT,Medium
+"The corridor bulb in block C went out.",Electrical,Low
+"The main water valve in basement is leaking.",Plumbing,High
+"The desk in library has uneven surface.",Carpentry,Low
+"The switch in exam control room is burnt.",Electrical,High
+"The washroom in floor 3 has blocked drain.",Plumbing,High
+"The chair in reading area is wobbly.",Carpentry,Low
+"The LAN switch in admin block is malfunctioning.",IT,High
+"The light fixture near lift is not turning on.",Electrical,Medium
+"The water pipe near lab 9 is dripping slightly.",Plumbing,Medium
+"The window frame in staff office is cracked.",Carpentry,Low
+"The internet speed in admin block is inconsistent.",IT,Medium
+"The AC socket in meeting room is sparking.",Electrical,High
+"The tap in ground floor bathroom is leaking.",Plumbing,Medium
+"The wooden rack in pantry area is unstable.",Carpentry,Low
+"The system in server room overheats frequently.",IT,High
+"The power switch in library corridor is not responding.",Electrical,Medium
+"The water outlet near parking area is broken.",Plumbing,Low
+"The classroom table drawer is jammed.",Carpentry,Low
+"The Wi-Fi connection in seminar hall drops often.",IT,Medium
+"The ceiling fan in block A rotates unevenly.",Electrical,Low
+"The sink pipe in hostel washroom 2A is cracked.",Plumbing,Medium
+"The cupboard top in staff lounge is broken.",Carpentry,Low
+"The network cable behind router is loose.",IT,Medium
+"The switchboard near lab 10 is tripping power.",Electrical,High
+"The water flow from tap in lab washroom is irregular.",Plumbing,Medium
+"The shelf in faculty room is broken.",Carpentry,Low
+"The desktop in accounts office shuts down randomly.",IT,High
+"The tube light in corridor 5C is fused.",Electrical,Low
+"The toilet in hostel washroom 4B is clogged.",Plumbing,High
+"The desk drawer in library section 2 is jammed.",Carpentry,Low
+"The network printer in staff area is offline.",IT,Medium
+"The light switch near classroom 107 isn’t functioning.",Electrical,Medium
+"The washroom pipe near stairwell is leaking.",Plumbing,High
+"The chair armrest in office room 203 is broken.",Carpentry,Low
+"The LAN connection in IT lab 6 keeps dropping.",IT,Medium
+"The electric socket near corridor 1A is burnt.",Electrical,High
+"The drain near lab 2 washroom is blocked.",Plumbing,High
+"The table in classroom 302 is unstable.",Carpentry,Low
+"The Wi-Fi router near reading area is not working.",IT,High
+"The power switch in lab 3 isn’t turning on.",Electrical,Medium
+"The water tap in block F bathroom is dripping.",Plumbing,Medium
+"The wooden door in hostel corridor is swollen.",Carpentry,Medium
+"The server in IT department keeps freezing.",IT,High
+"The fan near corridor B is making noise.",Electrical,Medium
+"The wash basin in canteen is clogged.",Plumbing,High
+"The shelf in reading room has come loose.",Carpentry,Low
+"The internet in lab 9 disconnects often.",IT,Medium
+"The switch near conference room sparks.",Electrical,High
+"The tap in mess area is leaking heavily.",Plumbing,High
+"The chair in staff room 104 is unstable.",Carpentry,Low
+"The system in classroom 201 doesn’t connect to Wi-Fi.",IT,Medium
+"The power socket in block C overheats.",Electrical,High
+"The water pipe near corridor 4A is leaking.",Plumbing,Medium
+"The cupboard in lab 5 has broken handles.",Carpentry,Low
+"The router in admin section is not reachable.",IT,High
+"The fan in corridor A stopped working suddenly.",Electrical,Medium
+"The toilet flush in hostel washroom 3B is jammed.",Plumbing,Medium
+"The table drawer in office 301 is stuck.",Carpentry,Low
+"The network in lab 8 is unstable.",IT,Medium
+"The main switchboard in lab 4 is sparking occasionally.",Electrical,High
+"The pipe joint in washroom 1A is dripping constantly.",Plumbing,Medium
+"The classroom door near block B squeaks and won’t close.",Carpentry,Low
+"The system in IT lab 3 doesn’t detect external drives.",IT,Medium
+"The light in corridor F flickers every few seconds.",Electrical,Low
+"The toilet tank in the ground floor washroom is overflowing.",Plumbing,High
+"The desk in library corner 3 is uneven.",Carpentry,Low
+"The Wi-Fi signal in classroom 204 keeps disconnecting.",IT,Medium
+"The power plug near notice board is burnt.",Electrical,High
+"The sink in hostel washroom 5C is blocked.",Plumbing,High
+"The wooden shelf in lab storage is coming apart.",Carpentry,Low
+"The computer in IT lab 10 displays a blue screen.",IT,High
+"The ceiling light in corridor D went off suddenly.",Electrical,Medium
+"The tap in staff bathroom leaks even when closed.",Plumbing,Medium
+"The chair leg in classroom 401 is broken.",Carpentry,Low
+"The Wi-Fi router near admin cabin isn’t connecting.",IT,Medium
+"The switch near auditorium entrance is malfunctioning.",Electrical,Medium
+"The main pipeline in mess area is leaking water.",Plumbing,High
+"The cupboard hinge in lab 9 is coming loose.",Carpentry,Low
+"The desktop in staff office is freezing often.",IT,Medium
+"The bulb near block A entrance has fused.",Electrical,Low
+"The faucet in the pantry area is leaking heavily.",Plumbing,High
+"The notice board frame is cracked at one corner.",Carpentry,Low
+"The network printer in accounts section is not working.",IT,High
+"The switchboard near lab 6 is burnt.",Electrical,High
+"The water tap in hostel washroom 2C has low pressure.",Plumbing,Medium
+"The wooden chair in room 104 is damaged.",Carpentry,Low
+"The desktop in lab 12 is not turning on.",IT,High
+"The ceiling fan in classroom 210 makes noise.",Electrical,Medium
+"The drain pipe under kitchen sink is blocked.",Plumbing,High
+"The cupboard shelf in staff room has come loose.",Carpentry,Low
+"The internet connection in lab 2 is dropping frequently.",IT,Medium
+"The socket near corridor 5D is sparking.",Electrical,High
+"The shower in hostel bathroom is leaking.",Plumbing,Medium
+"The bench in reading area has a loose plank.",Carpentry,Low
+"The Wi-Fi connection in seminar hall is unstable.",IT,Medium
+"The tube light in lab 9 is flickering.",Electrical,Low
+"The wash basin in pantry area is clogged.",Plumbing,High
+"The classroom desk near window is cracked.",Carpentry,Low
+"The computer in lab 7 restarts on its own.",IT,Medium
+"The light switch near corridor E doesn’t work.",Electrical,Medium
+"The pipe behind the washroom mirror is leaking.",Plumbing,Medium
+"The wooden rack in storage room is unstable.",Carpentry,Low
+"The LAN cable in office room 104 is damaged.",IT,Medium
+"The fan in classroom 108 rotates slowly.",Electrical,Low
+"The tap in hostel washroom 1B drips continuously.",Plumbing,Medium
+"The table drawer in library is jammed.",Carpentry,Low
+"The server in IT department keeps shutting down.",IT,High
+"The corridor light in block A flickers randomly.",Electrical,Medium
+"The kitchen drain pipe is clogged.",Plumbing,High
+"The classroom cupboard hinge is broken.",Carpentry,Low
+"The network printer in lab 5 isn’t connecting.",IT,Medium
+"The switch near hostel gate sparks sometimes.",Electrical,High
+"The water supply to bathroom 3B is inconsistent.",Plumbing,Medium
+"The chair in conference hall has a broken armrest.",Carpentry,Low
+"The system in IT lab 11 overheats frequently.",IT,High
+"The bulb in staff room corridor is fused.",Electrical,Low
+"The toilet flush in washroom 2A is jammed.",Plumbing,Medium
+"The cupboard handle in lab 1 is missing.",Carpentry,Low
+"The internet in staff lounge disconnects often.",IT,Medium
+"The fan regulator in classroom 205 is broken.",Electrical,Low
+"The sink tap in mess area is dripping constantly.",Plumbing,Medium
+"The desk in room 203 is unstable.",Carpentry,Low
+"The Wi-Fi router near canteen stops working often.",IT,Medium
+"The main light in seminar hall is flickering.",Electrical,Medium
+"The toilet in ground floor washroom is blocked.",Plumbing,High
+"The shelf in admin storage room is bent.",Carpentry,Low
+"The computer in lab 8 is showing disk errors.",IT,High
+"The fan in classroom 401 stopped working.",Electrical,Medium
+"The shower knob in bathroom 4A is loose.",Plumbing,Medium
+"The door in staff office is not aligned properly.",Carpentry,Low
+"The internet in library area is very slow.",IT,Low
+"The switchboard near lab 3 is heating up.",Electrical,High
+"The drain near hostel block A is clogged.",Plumbing,High
+"The table in study area is uneven.",Carpentry,Low
+"The network in conference hall is unstable.",IT,Medium
+"The light fixture near staircase 2 is not working.",Electrical,Medium
+"The faucet in washroom 3C drips slightly.",Plumbing,Low
+"The chair in classroom 201 wobbles.",Carpentry,Low
+"The LAN cable in lab 9 is unplugged and loose.",IT,Medium
+"The power outlet near admin desk sparks.",Electrical,High
+"The wash basin pipe in washroom 2C is leaking.",Plumbing,Medium
+"The cupboard drawer in office 2B is jammed.",Carpentry,Low
+"The desktop in library keeps rebooting.",IT,Medium
+"The fan in staff room 4A is noisy.",Electrical,Low
+"The water heater in washroom 1C isn’t heating.",Plumbing,Medium
+"The window frame in hostel room 104 is cracked.",Carpentry,Low
+"The router in corridor 3 keeps restarting.",IT,Medium
+"The ceiling light in lab 2 has fused.",Electrical,Low
+"The sink pipe near canteen is leaking.",Plumbing,High
+"The wooden rack in classroom 4B is loose.",Carpentry,Low
+"The server in IT block overheats frequently.",IT,High
+"The main switch in block C stopped working.",Electrical,High
+"The toilet flush in staff washroom 3A is broken.",Plumbing,Medium
+"The classroom cupboard is misaligned.",Carpentry,Low
+"The computer in exam cell is not booting.",IT,High
+"The fan in auditorium vibrates heavily.",Electrical,Medium
+"The kitchen tap has very low pressure.",Plumbing,Low
+"The wooden door frame in corridor 5B is cracked.",Carpentry,Medium
+"The laptop in IT office isn’t charging.",IT,High
+"The light near block D elevator is fused.",Electrical,Low
+"The sink in hostel washroom 4C is clogged.",Plumbing,High
+"The drawer in staff room 3A doesn’t close properly.",Carpentry,Low
+"The system in admin block 2 shows error frequently.",IT,Medium
+"The switch near classroom 109 isn’t working.",Electrical,Low
+"The toilet pipe in washroom 1B is leaking badly.",Plumbing,High
+"The bench in classroom 301 is cracked.",Carpentry,Low
+"The network in staff room 2 disconnects randomly.",IT,Medium
+"The ceiling fan in classroom 306 is wobbling.",Electrical,Low
+"The faucet in washroom 5B is dripping continuously.",Plumbing,Medium
+"The cupboard door in lab 3 is off its hinges.",Carpentry,Medium
+"The desktop in IT lab 12 keeps freezing.",IT,High
+"The corridor light in block E flickers occasionally.",Electrical,Medium
+"The toilet flush in ground floor washroom is leaking.",Plumbing,High
+"The library table has a broken leg.",Carpentry,Low
+"The Wi-Fi in seminar hall disconnects frequently.",IT,Medium
+"The power socket in staff room sparks while in use.",Electrical,High
+"The sink in hostel washroom 3C is blocked.",Plumbing,High
+"The shelf in classroom 207 is coming loose.",Carpentry,Low
+"The computer in lab 4 is not connecting to network.",IT,High
+"The ceiling light near corridor 1A is fused.",Electrical,Low
+"The water tap in pantry is leaking heavily.",Plumbing,Medium
+"The classroom chair has a cracked seat.",Carpentry,Low
+"The internet connection in IT office is intermittent.",IT,Medium
+"The switchboard in auditorium entrance is sparking.",Electrical,High
+"The main pipe in kitchen is leaking.",Plumbing,High
+"The cupboard in staff lounge has a broken hinge.",Carpentry,Low
+"The server in IT block is slow to respond.",IT,High
+"The corridor bulb in block C went out.",Electrical,Low
+"The toilet in floor 2 washroom has low water pressure.",Plumbing,Medium
+"The desk in hostel room 103 is unstable.",Carpentry,Low
+"The network printer in lab 6 isn’t responding.",IT,Medium
+"The fan in classroom 202 is noisy.",Electrical,Low
+"The shower in hostel bathroom 1A is dripping.",Plumbing,Medium
+"The shelf in library near entrance is broken.",Carpentry,Low
+"The router in corridor D disconnects often.",IT,Medium
+"The tube light in staff room is flickering.",Electrical,Low
+"The drain pipe in mess area is clogged.",Plumbing,High
+"The cupboard handle in lab 5 is loose.",Carpentry,Low
+"The desktop in IT lab 9 keeps restarting.",IT,High
+"The light switch near classroom 110 isn’t working.",Electrical,Medium
+"The faucet in hostel washroom 4B drips.",Plumbing,Medium
+"The chair in conference hall has a broken armrest.",Carpentry,Low
+"The Wi-Fi in admin area is unstable.",IT,Medium
+"The main power switch in corridor A trips frequently.",Electrical,High
+"The water outlet near lab 2 is leaking.",Plumbing,Medium
+"The wooden rack in staff storage is loose.",Carpentry,Low
+"The LAN connection in lab 11 keeps dropping.",IT,Medium
+"The fan in classroom 405 rotates slowly.",Electrical,Low
+"The tap in washroom 2A drips constantly.",Plumbing,Medium
+"The desk drawer in library section 3 is jammed.",Carpentry,Low
+"The computer in IT office 2 shuts down randomly.",IT,High
+"The corridor light in block F is flickering.",Electrical,Medium
+"The kitchen drain pipe is blocked.",Plumbing,High
+"The cupboard hinge in classroom 308 is broken.",Carpentry,Low
+"The network printer in staff lounge isn’t working.",IT,Medium
+"The switch near hostel gate sparks sometimes.",Electrical,High
+"The water supply in bathroom 3C is irregular.",Plumbing,Medium
+"The chair in study hall has a broken leg.",Carpentry,Low
+"The system in IT lab 7 overheats frequently.",IT,High
+"The bulb in corridor 3A is fused.",Electrical,Low
+"The toilet flush in washroom 1C is jammed.",Plumbing,Medium
+"The cupboard handle in library is missing.",Carpentry,Low
+"The internet in seminar hall drops frequently.",IT,Medium
+"The fan regulator in classroom 209 is broken.",Electrical,Low
+"The sink in hostel washroom 5A is dripping.",Plumbing,Medium
+"The table in classroom 402 is uneven.",Carpentry,Low
+"The Wi-Fi router near canteen stops working.",IT,Medium
+"The main light in lab 5 is flickering.",Electrical,Medium
+"The toilet in ground floor washroom is blocked.",Plumbing,High
+"The shelf in staff room is bent.",Carpentry,Low
+"The computer in IT lab 10 is not booting.",IT,High
+"The fan in classroom 407 stopped working.",Electrical,Medium
+"The shower knob in washroom 3B is loose.",Plumbing,Medium
+"The door in staff office is misaligned.",Carpentry,Low
+"The internet in library is very slow.",IT,Low
+"The switchboard near lab 1 is heating up.",Electrical,High
+"The drain near hostel block B is blocked.",Plumbing,High
+"The table in study area wobbles.",Carpentry,Low
+"The network in conference hall disconnects often.",IT,Medium
+"The light fixture near staircase 3 is not working.",Electrical,Medium
+"The faucet in washroom 4B drips slightly.",Plumbing,Low
+"The chair in classroom 203 wobbles.",Carpentry,Low
+"The LAN cable in lab 10 is unplugged.",IT,Medium
+"The power outlet near admin desk sparks.",Electrical,High
+"The wash basin pipe in hostel washroom is leaking.",Plumbing,Medium
+"The cupboard drawer in staff room 2B is jammed.",Carpentry,Low
+"The desktop in library keeps rebooting.",IT,Medium
+"The fan in staff room 4C is noisy.",Electrical,Low
+"The water heater in washroom 2C isn’t heating.",Plumbing,Medium
+"The window frame in hostel room 106 is cracked.",Carpentry,Low
+"The router in corridor 5 keeps restarting.",IT,Medium
+"The ceiling light in lab 3 has fused.",Electrical,Low
+"The sink pipe near pantry is leaking.",Plumbing,High
+"The wooden rack in classroom 3B is loose.",Carpentry,Low
+"The server in IT block shuts down frequently.",IT,High
+"The main switch in block D stopped working.",Electrical,High
+"The toilet flush in staff washroom 4A is broken.",Plumbing,Medium
+"The classroom cupboard is misaligned.",Carpentry,Low
+"The computer in exam room 2 is not booting.",IT,High
+"The fan in auditorium vibrates heavily.",Electrical,Medium
+"The kitchen tap has very low water pressure.",Plumbing,Low
+"The wooden door frame in corridor 6B is cracked.",Carpentry,Medium
+"The laptop in IT office isn’t charging.",IT,High
+"The light near block C elevator is fused.",Electrical,Low
+"The sink in hostel washroom 3D is clogged.",Plumbing,High
+"The drawer in staff room 3B doesn’t close properly.",Carpentry,Low
+"The system in admin block 3 shows errors frequently.",IT,Medium
+"The switch near classroom 111 isn’t working.",Electrical,Low
+"The toilet pipe in washroom 2B is leaking badly.",Plumbing,High
+"The bench in classroom 304 is cracked.",Carpentry,Low
+"The network in staff room 3 disconnects randomly.",IT,Medium
+"The ceiling fan in classroom 312 is making noise.",Electrical,Low
+"The faucet in washroom 6A drips constantly.",Plumbing,Medium
+"The cupboard door in lab 7 is off its hinges.",Carpentry,Medium
+"The desktop in IT lab 15 keeps freezing.",IT,High
+"The corridor light in block G flickers occasionally.",Electrical,Medium
+"The toilet flush in ground floor washroom is leaking.",Plumbing,High
+"The library table near window is broken.",Carpentry,Low
+"The Wi-Fi in seminar room disconnects frequently.",IT,Medium
+"The power socket in staff lounge sparks while in use.",Electrical,High
+"The sink in hostel washroom 6B is blocked.",Plumbing,High
+"The shelf in classroom 310 is coming loose.",Carpentry,Low
+"The computer in lab 13 is not connecting to network.",IT,High
+"The ceiling light near corridor 2B is fused.",Electrical,Low
+"The water tap in pantry leaks heavily.",Plumbing,Medium
+"The classroom chair in room 408 has a cracked seat.",Carpentry,Low
+"The internet connection in IT office is intermittent.",IT,Medium
+"The switchboard in auditorium lobby is sparking.",Electrical,High
+"The main pipeline in kitchen is leaking.",Plumbing,High
+"The cupboard in staff room 5 has a broken hinge.",Carpentry,Low
+"The server in IT block is slow to respond.",IT,High
+"The corridor bulb in block D went out.",Electrical,Low
+"The toilet in floor 3 washroom has low water pressure.",Plumbing,Medium
+"The desk in hostel room 107 is unstable.",Carpentry,Low
+"The network printer in lab 8 isn’t responding.",IT,Medium
+"The fan in classroom 215 is noisy.",Electrical,Low
+"The shower in hostel bathroom 2B is dripping.",Plumbing,Medium
+"The shelf in library near main entrance is broken.",Carpentry,Low
+"The router in corridor F disconnects frequently.",IT,Medium
+"The tube light in staff room is flickering.",Electrical,Low
+"The drain pipe in mess area is blocked.",Plumbing,High
+"The cupboard handle in lab 6 is loose.",Carpentry,Low
+"The desktop in IT lab 11 keeps restarting.",IT,High
+"The light switch near classroom 115 isn’t working.",Electrical,Medium
+"The faucet in hostel washroom 5C drips.",Plumbing,Medium
+"The chair in conference hall has a broken armrest.",Carpentry,Low
+"The Wi-Fi in admin section is unstable.",IT,Medium
+"The main power switch in corridor B trips frequently.",Electrical,High
+"The water outlet near lab 4 is leaking.",Plumbing,Medium
+"The wooden rack in staff storage is loose.",Carpentry,Low
+"The LAN connection in lab 12 keeps dropping.",IT,Medium
+"The fan in classroom 412 rotates slowly.",Electrical,Low
+"The tap in washroom 3A drips constantly.",Plumbing,Medium
+"The desk drawer in library section 4 is jammed.",Carpentry,Low
+"The computer in IT office 3 shuts down randomly.",IT,High
+"The corridor light in block H is flickering.",Electrical,Medium
+"The kitchen drain pipe is clogged.",Plumbing,High
+"The cupboard hinge in classroom 315 is broken.",Carpentry,Low
+"The network printer in staff lounge isn’t working.",IT,Medium
+"The switch near hostel entrance sparks sometimes.",Electrical,High
+"The water supply in bathroom 4C is irregular.",Plumbing,Medium
+"The chair in study hall has a broken leg.",Carpentry,Low
+"The system in IT lab 9 overheats frequently.",IT,High
+"The bulb in corridor 4B is fused.",Electrical,Low
+"The toilet flush in washroom 3D is jammed.",Plumbing,Medium
+"The cupboard handle in library is missing.",Carpentry,Low
+"The internet in seminar room drops frequently.",IT,Medium
+"The fan regulator in classroom 217 is broken.",Electrical,Low
+"The sink in hostel washroom 6C is dripping.",Plumbing,Medium
+"The table in classroom 409 is uneven.",Carpentry,Low
+"The Wi-Fi router near cafeteria stops working.",IT,Medium
+"The main light in lab 6 is flickering.",Electrical,Medium
+"The toilet in ground floor washroom is blocked.",Plumbing,High
+"The shelf in staff room 6 is bent.",Carpentry,Low
+"The computer in IT lab 14 is not booting.",IT,High
+"The fan in classroom 418 stopped working.",Electrical,Medium
+"The shower knob in washroom 5A is loose.",Plumbing,Medium
+"The door in staff office is misaligned.",Carpentry,Low
+"The internet in library is very slow.",IT,Low
+"The switchboard near lab 2 is heating up.",Electrical,High
+"The drain near hostel block C is blocked.",Plumbing,High
+"The table in study area wobbles.",Carpentry,Low
+"The network in conference hall disconnects often.",IT,Medium
+"The light fixture near staircase 4 is not working.",Electrical,Medium
+"The faucet in washroom 5B drips slightly.",Plumbing,Low
+"The chair in classroom 208 wobbles.",Carpentry,Low
+"The LAN cable in lab 11 is unplugged.",IT,Medium
+"The power outlet near admin desk sparks.",Electrical,High
+"The wash basin pipe in hostel washroom is leaking.",Plumbing,Medium
+"The cupboard drawer in staff room 3C is jammed.",Carpentry,Low
+"The desktop in library keeps rebooting.",IT,Medium
+"The fan in staff room 5A is noisy.",Electrical,Low
+"The water heater in washroom 3B isn’t heating.",Plumbing,Medium
+"The window frame in hostel room 108 is cracked.",Carpentry,Low
+"The router in corridor 6 keeps restarting.",IT,Medium
+"The ceiling light in lab 4 has fused.",Electrical,Low
+"The sink pipe near pantry is leaking.",Plumbing,High
+"The wooden rack in classroom 4C is loose.",Carpentry,Low
+"The server in IT block shuts down frequently.",IT,High
+"The main switch in block E stopped working.",Electrical,High
+"The toilet flush in staff washroom 5B is broken.",Plumbing,Medium
+"The classroom cupboard is misaligned.",Carpentry,Low
+"The computer in exam room 3 is not booting.",IT,High
+"The fan in auditorium vibrates heavily.",Electrical,Medium
+"The kitchen tap has very low water pressure.",Plumbing,Low
+"The wooden door frame in corridor 7B is cracked.",Carpentry,Medium
+"The laptop in IT office isn’t charging.",IT,High
+"The light near block D elevator is fused.",Electrical,Low
+"The sink in hostel washroom 6D is clogged.",Plumbing,High
+"The drawer in staff room 4B doesn’t close properly.",Carpentry,Low
+"The system in admin block 4 shows errors frequently.",IT,Medium
+"The switch near classroom 112 isn’t working.",Electrical,Low
+"The toilet pipe in washroom 3B is leaking badly.",Plumbing,High
+"The bench in classroom 405 is cracked.",Carpentry,Low
+"The network in staff room 4 disconnects randomly.",IT,Medium
+
